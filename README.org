@@ -1,0 +1,10 @@
+* trivial-bit-streams
+
+Flexible buffered bit streams
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Lovesan/trivial-bit-streams.git   |
+| commit  | 0907c25  |
+| systems | trivial-bit-streams |
+|---------+-------------------------------------------|
+
