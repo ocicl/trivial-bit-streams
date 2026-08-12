@@ -8,4 +8,4 @@ Flexible buffered bit streams
 | systems | trivial-bit-streams |
 |---------+-------------------------------------------|
 
- 
+  
